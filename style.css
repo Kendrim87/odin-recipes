@@ -1,0 +1,45 @@
+body {
+  background: hsla(187, 7%, 47%, 0.664);
+  font-family: sans-serif;
+}
+
+h1{
+    width: 400px;
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: 5px solid;
+    border-color: coral;
+    margin: auto;
+}
+
+.contenedor-imagen{
+    text-align: center;
+    padding: 30px;
+}
+
+.imagen{
+    height: 300px;
+    width: 300px;
+}
+
+ol{
+    color: rgb(30, 163, 30);
+    text-align: left;
+    display: inline-block;
+}
+
+li{
+    color: rgb(32, 89, 175);
+
+}
+
+ul{
+    list-style-position:inside;
+    text-align: left;
+    display: inline-block;
+}
+
+.listado{
+    text-align: center;
+}
